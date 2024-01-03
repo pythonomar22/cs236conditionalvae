@@ -4,3 +4,4 @@
 <b>Poster:</b> 
 ![Poster for CS 236 Project](posterpng.png)
 
+<a href="https://github.com/pythonomar22/cvae/blob/main/paper.pdf" target="_blank">Paper.pdf</a>
